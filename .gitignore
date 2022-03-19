@@ -1,0 +1,12 @@
+#忽略所有文件夹的内容
+*/
+#忽略.tmp文件
+.tmp
+#忽略Ajax.docx文件
+Ajax.docx
+#忽略python文件
+*.py
+#忽略所有压缩文件
+*.rar
+#忽略动态规划文件
+动态规划.docx
