@@ -1,2 +1,20 @@
-git test file
-
+643300 Django开发宝典.pdf
+Ajax.docx
+Django笔记.docx
+Django网页版/
+HTML学习笔记.docx
+JavaScript学习笔记.docx
+JavaScript数据结构.docx
+day1/
+day1.py
+day2/
+day3/
+day4/
+ddia-master/
+ddia-master.rar
+document_MySQL/
+gitTest.txt
+~$Ajax.docx
+~$vaScript学习笔记.docx
+~WRL2691.tmp
+动态规划.docx
